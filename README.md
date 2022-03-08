@@ -1,16 +1,9 @@
 # wednesday
 
-A new Flutter project.
+A siple FLutter Project that fetches images from an API and makes use of FutureBuilder to display this list of images inside a ListView.
 
-## Getting Started
+<p align="center">
+  <img alt="Screenshot-1" src="https://user-images.githubusercontent.com/40262579/157307244-03a5c1e0-264d-4cb5-a768-480ae300b878.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
